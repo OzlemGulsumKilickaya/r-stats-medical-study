@@ -5,24 +5,43 @@ This repository presents a structured statistical analysis pipeline for a health
 ## 📁 Repository Structure
 
 informative-stats-health-analysis/
+
 ├── data/
+
 │ ├── combined.xlsx # Raw or cleaned spreadsheet data
+
 │ ├── processed_data.rds # RDS-formatted dataset for R
+
 │ └── README.md # Description of data sources and structure
+
 │
+
 ├── notebooks/
+
 │ └── analysis_inf_stats.ipynb # Main R-based Jupyter Notebook
+
 │
+
 ├── reports/
+
 │ └── statistical_analysis_summary.docx # Final report of findings
+
 │
+
 ├── docs/
+
 │ ├── study_details.docx # Background and design of the study
+
 │ ├── step_by_step_procedure.docx # Guide to analytical steps
+
 │ └── abstract_symposium.pdf # Related abstract or publication
+
 │
+
 ├── LICENSE
+
 ├── .gitignore
+
 └── README.md
 
 
